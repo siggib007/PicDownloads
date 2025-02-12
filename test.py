@@ -3,7 +3,7 @@ import requests
 import json
 
 iTimeOut = 30
-strURL = "https://mikrotik.com/product/chateau_pro_ax#fndtn-gallery"
+strURL = "https://mikrotik.com/product/chateau_pro_ax"
 dictHeader = {}
 dictHeader["Content-Type"] = "application/json"
 dictHeader["Accept"] = "application/json"
